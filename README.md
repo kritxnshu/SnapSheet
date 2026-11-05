@@ -26,8 +26,6 @@
   <img src="https://img.shields.io/badge/privacy-on--device-success?style=for-the-badge" alt="On-device processing" />
 </p>
 
-<img src="public/icons/icon-512.png" width="160" alt="SnapSheet app icon" />
-
 </div>
 
 ---
